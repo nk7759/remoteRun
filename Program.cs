@@ -51,7 +51,7 @@ namespace remoteRun
                         if (!string.IsNullOrEmpty(encryptedPassword))
                             return DecryptPassword(encryptedPassword);
 
-                        Console.WriteLine($"[경고] DB에서 유효한 AD 관리자 정보를 찾을 수 없습니다. ({encryptedUser})");
+                        Console.WriteLine($"[경고] DB에서 유효한 AD관리자 정보를 찾을 수 없습니다. ({encryptedUser})");
                         return string.Empty;
                     }
                 }
