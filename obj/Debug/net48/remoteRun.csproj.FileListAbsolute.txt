@@ -1,0 +1,12 @@
+d:\01.AI\Claude인프런교육\remoteRun\obj\Debug\net48\remoteRun.csproj.AssemblyReference.cache
+d:\01.AI\Claude인프런교육\remoteRun\obj\Debug\net48\remoteRun.GeneratedMSBuildEditorConfig.editorconfig
+d:\01.AI\Claude인프런교육\remoteRun\obj\Debug\net48\remoteRun.AssemblyInfoInputs.cache
+d:\01.AI\Claude인프런교육\remoteRun\obj\Debug\net48\remoteRun.AssemblyInfo.cs
+d:\01.AI\Claude인프런교육\remoteRun\obj\Debug\net48\remoteRun.csproj.CoreCompileInputs.cache
+d:\01.AI\Claude인프런교육\remoteRun\bin\Debug\net48\App.config
+d:\01.AI\Claude인프런교육\remoteRun\bin\Debug\net48\remoteRun.exe.config
+d:\01.AI\Claude인프런교육\remoteRun\bin\Debug\net48\remoteRun.exe
+d:\01.AI\Claude인프런교육\remoteRun\bin\Debug\net48\remoteRun.pdb
+d:\01.AI\Claude인프런교육\remoteRun\obj\Debug\net48\remoteRun.exe
+d:\01.AI\Claude인프런교육\remoteRun\obj\Debug\net48\remoteRun.pdb
+D:\01.AI\Claude인프런교육\remoteRun\obj\Debug\net48\remoteRun.exe.config

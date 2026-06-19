@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = remoteRun
+build_property.ProjectDir = D:\01.AI\Claude인프런교육\remoteRun\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
